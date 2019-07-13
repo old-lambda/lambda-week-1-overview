@@ -130,3 +130,21 @@ table {
 
 /* My Code Starts Here */
 
+*{
+    margin: 30px 0;
+}
+
+header nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+header nav a{
+    color:teal;
+    text-decoration: none;
+}
+
+.inline-block{
+    text-align: center
+}
+
